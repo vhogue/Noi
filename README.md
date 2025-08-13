@@ -1,4 +1,4 @@
-<p align="center">
+updat<p align="center">
   <img width="160" src="./website/static/readme/noi.png" />
   <p align="center">🚀 Power Your World with AI - Explore, Extend, Empower.</p>
 </h2>
